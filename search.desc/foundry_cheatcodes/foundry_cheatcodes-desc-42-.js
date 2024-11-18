@@ -1,0 +1,1 @@
+searchState.loadedDescShard("foundry_cheatcodes", 42, "Returns <code>self</code> with the <code>fg()</code> set to <code>Color::Yellow</code>.")
